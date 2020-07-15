@@ -1,3 +1,3 @@
-# Optics-Mathematica
-This is for the mathematica code associated with optics
-written by Charlie Ironside
+# Semiconductor-Opto-Mathematica
+# for the book : "Semiconductor Integrated Optics for Switching Light" by Charlie Ironside 
+
